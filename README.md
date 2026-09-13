@@ -87,6 +87,12 @@ Future development includes combining the optimized flat, crack-free
 configuration with piezoelectric activation in a two-stage
 cool-down/activation simulation and eventual device fabrication.
 
+## Research Poster
+
+A summary of the finite-element modeling methodology, design study,
+results, and future work is available in
+[Parker_Robles_Summer_Research_Poster.pdf](Parker_Robles_Summer_Research_Poster.pdf).
+
 ## Author
 
 Parker Robles  
