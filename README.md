@@ -33,17 +33,9 @@ to identify candidate design conditions.
 ## Technologies
 
 - Python
-- NumPy
-- pandas
-- SciPy
-- Matplotlib
-- HyperMesh
 - Radioss
-- SolidWorks
 - Finite Element Analysis (FEA)
 - Numerical data analysis
-
-## Repository Contents
 
 ### `find_zero.py`
 
