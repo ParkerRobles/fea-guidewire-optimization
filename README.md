@@ -88,5 +88,5 @@ results, and future work is available in
 ## Author
 
 Parker Robles  
-Biomedical Engineering | Computer Science Minor  
+Mathematics | Data Science Concentration  
 Stevens Institute of Technology
